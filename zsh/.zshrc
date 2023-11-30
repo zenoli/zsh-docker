@@ -1,2 +1,3 @@
-echo "Hello from .zshrc"
-echo "Hello 2"
+autoload -Uz compinit
+compinit -i
+
