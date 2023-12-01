@@ -1,12 +1,12 @@
 FROM alpine
 ENV PACKAGES " \
-    zsh \
+    curl \
     git \
     vim \
-    curl \
+    zsh \
 "
 
-RUN apk update && apk add $PACKAGES rm -rf /var/cache/apk/*
+RUN apk update && apk add $PACKAGES
 
 # Create user
 RUN adduser -D dev

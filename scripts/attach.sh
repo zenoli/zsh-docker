@@ -1,6 +1,6 @@
 #!/bin/sh
 
-docker compose exec zsh-docker zsh
+docker exec -it zsh-docker zsh
 
 
 
