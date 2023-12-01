@@ -5,8 +5,6 @@ fpath+=( /home/dev/.cache/antidote/zdharma-continuum/fast-syntax-highlighting )
 source /home/dev/.cache/antidote/zdharma-continuum/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh
 fpath+=( /home/dev/.cache/antidote/Aloxaf/fzf-tab )
 source /home/dev/.cache/antidote/Aloxaf/fzf-tab/fzf-tab.plugin.zsh
-fpath+=( /home/dev/.cache/antidote/unixorn/fzf-zsh-plugin )
-source /home/dev/.cache/antidote/unixorn/fzf-zsh-plugin/fzf-zsh-plugin.plugin.zsh
 source /home/dev/.cache/antidote/ohmyzsh/ohmyzsh/lib/history.zsh
 source /home/dev/.cache/antidote/ohmyzsh/ohmyzsh/lib/directories.zsh
 source /home/dev/.cache/antidote/ohmyzsh/ohmyzsh/lib/theme-and-appearance.zsh
