@@ -1,5 +1,8 @@
+source "$ZDOTDIR/src/xdg.zsh"
+
+export HISTFILE="$XDG_STATE_HOME/zsh/zsh_history"
 export EDITOR="nvim"
 export VISUAL="nvim"
-export ANTIDOTE_HOME="$XDG_DATA_HOME/zsh/antidote"
+export TERM="tmux-256color"
 
-source "$ZDOTDIR/src/xdg.zsh"
+export NVM_DIR="$XDG_DATA_HOME/nvm"

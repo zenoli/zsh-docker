@@ -1,0 +1,13 @@
+romkatv/powerlevel10k kind:fpath
+lukechilds/zsh-nvm
+zdharma-continuum/fast-syntax-highlighting
+Aloxaf/fzf-tab
+unixorn/fzf-zsh-plugin
+
+# Oh-my-zsh plugins
+ohmyzsh/ohmyzsh path:lib/history.zsh
+ohmyzsh/ohmyzsh path:lib/directories.zsh
+ohmyzsh/ohmyzsh path:lib/theme-and-appearance.zsh
+ohmyzsh/ohmyzsh path:plugins/colored-man-pages
+ohmyzsh/ohmyzsh path:plugins/vi-mode
+ohmyzsh/ohmyzsh path:plugins/git
