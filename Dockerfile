@@ -4,6 +4,7 @@ ENV PACKAGES " \
     curl \
     git \
     github-cli \
+    lf \
     ncurses \
     neovim \
     perl \
