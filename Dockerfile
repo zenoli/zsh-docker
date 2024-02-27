@@ -4,7 +4,11 @@ ENV PACKAGES " \
     curl \
     git \
     github-cli \
+    less \ 
+    less-doc \ 
     lf \
+    man-pages \
+    mandoc \
     ncurses \
     neovim \
     perl \
